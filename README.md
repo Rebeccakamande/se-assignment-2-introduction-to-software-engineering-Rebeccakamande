@@ -10,7 +10,7 @@ Define Software Engineering:
 
 What is software engineering, and how does it differ from traditional programming?
 
-Software engineering is a discipline that emphasizes the application of engineering principles and systematic methodologies to software development. This approach aims to ensure that software is reliable, maintainable, and developed within time and budget constraints. Here’s a more detailed look at how software engineering differs from traditional programming and its core components:
+Software engineering is a discipline that emphasizes the application of engineering principles and systematic methodologies to software development. This approach aims to ensure that software is reliable, maintainable, and developed within time and budget constraints. 
 Key Differences Between Software Engineering and Traditional Programming:
 Software Engineering: Involves a comprehensive, phased approach to development, including stages like requirement analysis, design, coding, testing, deployment, and maintenance. This helps to manage complexity and ensures systematic progression.
 Traditional Programming: Often more ad-hoc, focusing primarily on coding without a formalized plan or structure. It may lack defined stages and processes, leading to potential issues in scalability and maintenance.
